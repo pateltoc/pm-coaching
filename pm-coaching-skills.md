@@ -1,3 +1,8 @@
+---
+name: pm-coaching-skills
+description: Comprehensive PM coaching across all archetypes - Consumer, Growth, GM, Platform, and Research PMs. Provides framework guidance, career development, and leadership coaching.
+---
+
 # Product Management AI Agent Skills
 
 ## Overview
